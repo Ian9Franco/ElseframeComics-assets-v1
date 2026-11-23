@@ -1,8 +1,15 @@
-# SAGA INMORTAL — CRONOLOGÍA DE PÁGINAS: ACTO I ("LA NOCHE QUE VOLVIÓ")
+# SAGA INMORTAL — CRONOLOGÍA DE PÁGINAS: ACTO I (P01–P24)
 
 **Extensión:** 24 páginas correlativas (P01–P24)  
 **Rol de este documento:** Secuencia operativa página por página para el guion y armado de prompts gráficos en el **Chat 2**.  
 **Estructura:** Cada entrada define función dramática, dueño emocional, beats secuenciales y directivas visuales específicas.
+
+**Publicación serial (canon de carpetas):**
+
+| Número | Título | Rango | Cierre obligatorio del tomo |
+|--------|--------|-------|-----------------------------|
+| **#1 — La noche que volvió** | `comics/#11 Inmortal/#1 La noche que volvio` | P01–P12 | Peter reconoce a Uandi muerto bajo la sábana forense. Sin Aegis, sin regeneración en pantalla. |
+| **#2 — Post mortem** | `comics/#11 Inmortal/#2 Post mortem` | P13–P24 | Espejo: reflejo de Aegis. Copy de cierre: *Uandi murió. Y Aegis ha regresado.* |
 
 ---
 
@@ -82,9 +89,11 @@
 - **Dueño emocional:** Peter $\rightarrow$ *Incredulidad atroz $\rightarrow$ Culpa y destrozo absoluto.*
 - **Beats:** Peter llega corriendo al lugar tras oír las sirenas. Los policías intentan frenarlo por su aspecto arácnido; el forense levanta la sábana para reconocimiento: Peter ve y toca con sus manos temblorosas el rostro pálido y frío de su amigo muerto. Queda destrozado por no haberlo acompañado.
 
+**→ FIN DEL NÚMERO 1 (*La noche que volvió*).** Portada, contraportada y copy editorial del #1 no deben anticipar resurrección ni nombre de Aegis.
+
 ---
 
-### **P13–P15 — La resurrección en la morgue**
+### **P13–P15 — La resurrección en la morgue** *(apertura del número 2 — Post mortem)*
 
 #### **P13 — La gaveta fría de acero**
 - **Función:** Establecer la muerte clínica y el escenario fúnebre.

@@ -38,10 +38,19 @@ Uandi lleva años sin transformarse en **Aegis** y cree sinceramente que esa eta
 
 ## 3. ESTRUCTURA DE LA SAGA EN 3 ACTOS
 
-### Acto I: "La noche que volvió" (P01–P24)
-- **El detonante:** Encuentro nocturno en un callejón con Balanar (Night Stalker); defensa coordinada exitosa junto a Peter. Despedida bajo la lluvia.
-- **La muerte y el despertar:** Uandi interviene en un asalto común para salvar a un transeúnte y recibe un disparo mortal. Su cadáver es trasladado a la morgue. A medianoche, Aegis despierta en la gaveta metálica, expulsa la bala de plomo, caza al asaltante, lo ejecuta y regresa a casa antes de destransformarse.
-- **El colapso:** Peter halla a Uandi respirando en la entrada; Ian y Jaz auditan la desaparición del cuerpo en la morgue. Revelación final frente al espejo del baño: Uandi descubre que Aegis ha regresado a habitarlo.
+### Acto I — arco narrativo completo (P01–P24)
+
+El Acto I es **un solo arco** de 24 páginas, publicado en serial en **dos números** (#1 *La noche que volvió* / #2 *Post mortem*):
+
+| Número | Carpeta en `comics/#11 Inmortal` | Título editorial | Páginas | Contrato con el lector |
+|--------|-----------------------------------|------------------|---------|-------------------------|
+| **#1** | `#1 La noche que volvio` | **La noche que volvió** | P01–P12 | La noche civil se rompe; Uandi muere de verdad; Peter confirma el cadáver. **No** aparece Aegis en el título ni en la promesa de tapa. |
+| **#2** | `#2 Post mortem` | **Post mortem** | P13–P24 | El cuerpo desaparece de la morgue; Uandi vuelve; Ian y Jaz entran; cierre en el espejo con Aegis. |
+| **Arco interno (colección / docs)** | — | *Referencia:* acto completo P01–P24 | P01–P24 | Serial: #1 **La noche que volvió** + #2 **Post mortem**. |
+
+- **El detonante (#1):** Encuentro nocturno en un callejón con Balanar (Night Stalker); defensa coordinada exitosa junto a Peter. Despedida bajo la lluvia. Asalto fortuito; disparo mortal; protocolo forense; duelo de Peter (P12).
+- **La muerte y el despertar (#2):** Cadáver en la morgue. A medianoche, Aegis despierta en la gaveta metálica, expulsa la bala, caza al asaltante, ejecuta y regresa a casa antes de destransformarse.
+- **El colapso (#2):** Peter halla a Uandi respirando en la entrada; Ian y Jaz auditan la sustracción del cuerpo. Revelación final frente al espejo del baño: Uandi descubre que Aegis ha regresado a habitarlo (P24).
 
 ### Acto II: La Investigación y la Fractura
 - Ian reconstruye la anomalía biológica y diseña protocolos clínicos de contención alrededor de Uandi, generando fricción con Peter, quien protege a su amigo del aislamiento científico.
